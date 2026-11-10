@@ -1,0 +1,11 @@
+FAIL: rechaza un monto negativo -> Esperado: El monto no puede ser negativo; recibido: null
+FAIL: rechaza dias que no son un numero -> Esperado: Los dias deben ser un numero finito; recibido: null
+PASS: cobra el 5% cuando hay vencimiento
+PASS: no cobra mora con cero dias
+PASS: no cobra mora antes del vencimiento
+PASS: monto cero produce mora cero
+PASS: un dia vencido ya cobra el 5%
+PASS: la mora no se multiplica por los dias
+FAIL: rechaza NaN en los dias -> Esperado: Los dias deben ser un numero finito; recibido: null
+
+Resultado: 6 aprobadas, 3 fallidas.

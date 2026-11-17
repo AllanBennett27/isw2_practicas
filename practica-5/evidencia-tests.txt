@@ -1,0 +1,215 @@
+ANTES DEL REFACTOR
+OK enfermo.js: cliente ausente
+OK enfermo.js: productos ausentes
+OK enfermo.js: productos no son arreglo
+OK enfermo.js: carrito vacío
+OK enfermo.js: venta normal
+OK enfermo.js: cliente frecuente
+OK enfermo.js: envío con costo
+OK enfermo.js: límite envío gratuito
+OK enfermo.js: por debajo del límite
+OK enfermo.js: por encima del límite
+OK enfermo.js: envío después del descuento
+OK enfermo.js: varios productos
+OK enfermo.js: redondeo
+OK enfermo.js: tipo desconocido conserva comportamiento
+OK enfermo.js: cantidad cero
+15 aprobados; 0 fallidos
+
+PASO 1: nombres
+OK enfermo.js: cliente ausente
+OK enfermo.js: productos ausentes
+OK enfermo.js: productos no son arreglo
+OK enfermo.js: carrito vacío
+OK enfermo.js: venta normal
+OK enfermo.js: cliente frecuente
+OK enfermo.js: envío con costo
+OK enfermo.js: límite envío gratuito
+OK enfermo.js: por debajo del límite
+OK enfermo.js: por encima del límite
+OK enfermo.js: envío después del descuento
+OK enfermo.js: varios productos
+OK enfermo.js: redondeo
+OK enfermo.js: tipo desconocido conserva comportamiento
+OK enfermo.js: cantidad cero
+OK sano.js: cliente ausente
+OK sano.js: productos ausentes
+OK sano.js: productos no son arreglo
+OK sano.js: carrito vacío
+OK sano.js: venta normal
+OK sano.js: cliente frecuente
+OK sano.js: envío con costo
+OK sano.js: límite envío gratuito
+OK sano.js: por debajo del límite
+OK sano.js: por encima del límite
+OK sano.js: envío después del descuento
+OK sano.js: varios productos
+OK sano.js: redondeo
+OK sano.js: tipo desconocido conserva comportamiento
+OK sano.js: cantidad cero
+30 aprobados; 0 fallidos
+
+PASO 2: constantes
+OK enfermo.js: cliente ausente
+OK enfermo.js: productos ausentes
+OK enfermo.js: productos no son arreglo
+OK enfermo.js: carrito vacío
+OK enfermo.js: venta normal
+OK enfermo.js: cliente frecuente
+OK enfermo.js: envío con costo
+OK enfermo.js: límite envío gratuito
+OK enfermo.js: por debajo del límite
+OK enfermo.js: por encima del límite
+OK enfermo.js: envío después del descuento
+OK enfermo.js: varios productos
+OK enfermo.js: redondeo
+OK enfermo.js: tipo desconocido conserva comportamiento
+OK enfermo.js: cantidad cero
+OK sano.js: cliente ausente
+OK sano.js: productos ausentes
+OK sano.js: productos no son arreglo
+OK sano.js: carrito vacío
+OK sano.js: venta normal
+OK sano.js: cliente frecuente
+OK sano.js: envío con costo
+OK sano.js: límite envío gratuito
+OK sano.js: por debajo del límite
+OK sano.js: por encima del límite
+OK sano.js: envío después del descuento
+OK sano.js: varios productos
+OK sano.js: redondeo
+OK sano.js: tipo desconocido conserva comportamiento
+OK sano.js: cantidad cero
+30 aprobados; 0 fallidos
+
+PASO 3: retorno temprano
+OK enfermo.js: cliente ausente
+OK enfermo.js: productos ausentes
+OK enfermo.js: productos no son arreglo
+OK enfermo.js: carrito vacío
+OK enfermo.js: venta normal
+OK enfermo.js: cliente frecuente
+OK enfermo.js: envío con costo
+OK enfermo.js: límite envío gratuito
+OK enfermo.js: por debajo del límite
+OK enfermo.js: por encima del límite
+OK enfermo.js: envío después del descuento
+OK enfermo.js: varios productos
+OK enfermo.js: redondeo
+OK enfermo.js: tipo desconocido conserva comportamiento
+OK enfermo.js: cantidad cero
+OK sano.js: cliente ausente
+OK sano.js: productos ausentes
+OK sano.js: productos no son arreglo
+OK sano.js: carrito vacío
+OK sano.js: venta normal
+OK sano.js: cliente frecuente
+OK sano.js: envío con costo
+OK sano.js: límite envío gratuito
+OK sano.js: por debajo del límite
+OK sano.js: por encima del límite
+OK sano.js: envío después del descuento
+OK sano.js: varios productos
+OK sano.js: redondeo
+OK sano.js: tipo desconocido conserva comportamiento
+OK sano.js: cantidad cero
+30 aprobados; 0 fallidos
+
+PASO 4: subtotal
+OK enfermo.js: cliente ausente
+OK enfermo.js: productos ausentes
+OK enfermo.js: productos no son arreglo
+OK enfermo.js: carrito vacío
+OK enfermo.js: venta normal
+OK enfermo.js: cliente frecuente
+OK enfermo.js: envío con costo
+OK enfermo.js: límite envío gratuito
+OK enfermo.js: por debajo del límite
+OK enfermo.js: por encima del límite
+OK enfermo.js: envío después del descuento
+OK enfermo.js: varios productos
+OK enfermo.js: redondeo
+OK enfermo.js: tipo desconocido conserva comportamiento
+OK enfermo.js: cantidad cero
+OK sano.js: cliente ausente
+OK sano.js: productos ausentes
+OK sano.js: productos no son arreglo
+OK sano.js: carrito vacío
+OK sano.js: venta normal
+OK sano.js: cliente frecuente
+OK sano.js: envío con costo
+OK sano.js: límite envío gratuito
+OK sano.js: por debajo del límite
+OK sano.js: por encima del límite
+OK sano.js: envío después del descuento
+OK sano.js: varios productos
+OK sano.js: redondeo
+OK sano.js: tipo desconocido conserva comportamiento
+OK sano.js: cantidad cero
+30 aprobados; 0 fallidos
+
+PASO 5: comprobante
+OK enfermo.js: cliente ausente
+OK enfermo.js: productos ausentes
+OK enfermo.js: productos no son arreglo
+OK enfermo.js: carrito vacío
+OK enfermo.js: venta normal
+OK enfermo.js: cliente frecuente
+OK enfermo.js: envío con costo
+OK enfermo.js: límite envío gratuito
+OK enfermo.js: por debajo del límite
+OK enfermo.js: por encima del límite
+OK enfermo.js: envío después del descuento
+OK enfermo.js: varios productos
+OK enfermo.js: redondeo
+OK enfermo.js: tipo desconocido conserva comportamiento
+OK enfermo.js: cantidad cero
+OK sano.js: cliente ausente
+OK sano.js: productos ausentes
+OK sano.js: productos no son arreglo
+OK sano.js: carrito vacío
+OK sano.js: venta normal
+OK sano.js: cliente frecuente
+OK sano.js: envío con costo
+OK sano.js: límite envío gratuito
+OK sano.js: por debajo del límite
+OK sano.js: por encima del límite
+OK sano.js: envío después del descuento
+OK sano.js: varios productos
+OK sano.js: redondeo
+OK sano.js: tipo desconocido conserva comportamiento
+OK sano.js: cantidad cero
+30 aprobados; 0 fallidos
+
+PASO 6: reglas de envio
+OK enfermo.js: cliente ausente
+OK enfermo.js: productos ausentes
+OK enfermo.js: productos no son arreglo
+OK enfermo.js: carrito vacío
+OK enfermo.js: venta normal
+OK enfermo.js: cliente frecuente
+OK enfermo.js: envío con costo
+OK enfermo.js: límite envío gratuito
+OK enfermo.js: por debajo del límite
+OK enfermo.js: por encima del límite
+OK enfermo.js: envío después del descuento
+OK enfermo.js: varios productos
+OK enfermo.js: redondeo
+OK enfermo.js: tipo desconocido conserva comportamiento
+OK enfermo.js: cantidad cero
+OK sano.js: cliente ausente
+OK sano.js: productos ausentes
+OK sano.js: productos no son arreglo
+OK sano.js: carrito vacío
+OK sano.js: venta normal
+OK sano.js: cliente frecuente
+OK sano.js: envío con costo
+OK sano.js: límite envío gratuito
+OK sano.js: por debajo del límite
+OK sano.js: por encima del límite
+OK sano.js: envío después del descuento
+OK sano.js: varios productos
+OK sano.js: redondeo
+OK sano.js: tipo desconocido conserva comportamiento
+OK sano.js: cantidad cero
+30 aprobados; 0 fallidos

@@ -1,0 +1,10 @@
+0496e02 chore: iniciar practica de clinica de codigo
+7d4bbbb feat: agregar funcion enferma con problemas deliberados
+8036779 test: caracterizar comportamiento antes del refactor
+c35a878 refactor: renombrar variables para expresar su intencion
+9098fb7 refactor: reemplazar numeros magicos por constantes
+37b57ba refactor: reducir anidacion con retorno temprano
+696a516 refactor: extraer calculo de subtotal
+5e800c1 refactor: separar presentacion del calculo de venta
+99a2ae0 refactor: extraer envio y eliminar asignaciones redundantes
+f348440 docs: agregar diagnostico evidencia y descripcion del PR
